@@ -1,0 +1,1302 @@
+[
+    {
+        "timestamp": "2026-05-29 20:14:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.33,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 48,
+            "MonthlyCharges": 110.63,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:14:48",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.23,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 45,
+            "MonthlyCharges": 92.19,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:14:53",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 42,
+            "MonthlyCharges": 41.94,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:14:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.4,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 45,
+            "MonthlyCharges": 79.03,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 45,
+            "MonthlyCharges": 108.55,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.31,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 55,
+            "MonthlyCharges": 83.97,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.24,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 28,
+            "MonthlyCharges": 94.29,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:18",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.33,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 8,
+            "MonthlyCharges": 41.44,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.36,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 14,
+            "MonthlyCharges": 103.54,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:28",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 51,
+            "MonthlyCharges": 41.31,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:33",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.48,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 3,
+            "MonthlyCharges": 47.14,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:38",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.2,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 16,
+            "MonthlyCharges": 58.16,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.29,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 15,
+            "MonthlyCharges": 58.38,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:48",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.41,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 20,
+            "MonthlyCharges": 117.52,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:53",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.22,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 11,
+            "MonthlyCharges": 50.79,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:15:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.33,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 10,
+            "MonthlyCharges": 116.03,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.37,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 18,
+            "MonthlyCharges": 35.43,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.35,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 39,
+            "MonthlyCharges": 37.43,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.44,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 8,
+            "MonthlyCharges": 108.9,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:18",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 45,
+            "MonthlyCharges": 42.56,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.41,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 40,
+            "MonthlyCharges": 95.93,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:28",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 66,
+            "MonthlyCharges": 30.97,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:33",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.22,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 33,
+            "MonthlyCharges": 83.02,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:38",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.2,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 39,
+            "MonthlyCharges": 50.43,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.33,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 12,
+            "MonthlyCharges": 45.28,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:48",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.44,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 6,
+            "MonthlyCharges": 63.38,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:53",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 56,
+            "MonthlyCharges": 35.26,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:16:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.29,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 49,
+            "MonthlyCharges": 73.45,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 37,
+            "MonthlyCharges": 21.23,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.39,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 17,
+            "MonthlyCharges": 90.36,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.35,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 8,
+            "MonthlyCharges": 86.42,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:18",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.31,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 70,
+            "MonthlyCharges": 117.35,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 57,
+            "MonthlyCharges": 38.77,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:28",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.33,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 42,
+            "MonthlyCharges": 78.57,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:33",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.16,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 15,
+            "MonthlyCharges": 39.47,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:38",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 3,
+            "MonthlyCharges": 61.06,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 66,
+            "MonthlyCharges": 49.4,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:48",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 42,
+            "MonthlyCharges": 97.55,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:53",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.4,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 52,
+            "MonthlyCharges": 118.33,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:17:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 69,
+            "MonthlyCharges": 79.77,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.44,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 8,
+            "MonthlyCharges": 116.96,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.37,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 35,
+            "MonthlyCharges": 41.17,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.28,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 53,
+            "MonthlyCharges": 67.04,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:18",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.21,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 15,
+            "MonthlyCharges": 67.11,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.36,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 59,
+            "MonthlyCharges": 26.93,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:28",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 46,
+            "MonthlyCharges": 72.21,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:33",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.36,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 31,
+            "MonthlyCharges": 71.98,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:38",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 42,
+            "MonthlyCharges": 42.91,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.31,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 21,
+            "MonthlyCharges": 102.08,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:48",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.22,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 45,
+            "MonthlyCharges": 73.72,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:53",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.24,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 20,
+            "MonthlyCharges": 53.05,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:18:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.4,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 40,
+            "MonthlyCharges": 115.7,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 43,
+            "MonthlyCharges": 41.65,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.21,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 11,
+            "MonthlyCharges": 39.24,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.34,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 70,
+            "MonthlyCharges": 36.85,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:18",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.35,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 2,
+            "MonthlyCharges": 40.77,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 10,
+            "MonthlyCharges": 54.51,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:28",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.34,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 14,
+            "MonthlyCharges": 66.87,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:33",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.31,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 30,
+            "MonthlyCharges": 49.81,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:38",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.41,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 5,
+            "MonthlyCharges": 38.06,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.24,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 51,
+            "MonthlyCharges": 114.39,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:48",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.24,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 71,
+            "MonthlyCharges": 30.52,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:53",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.19,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 44,
+            "MonthlyCharges": 45.01,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:19:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 42,
+            "MonthlyCharges": 101.49,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 51,
+            "MonthlyCharges": 118.62,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.27,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 55,
+            "MonthlyCharges": 52.93,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 69,
+            "MonthlyCharges": 101.28,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:18",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 48,
+            "MonthlyCharges": 114.91,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.17,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 34,
+            "MonthlyCharges": 64.8,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:28",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.23,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 33,
+            "MonthlyCharges": 108.23,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:33",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.24,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 15,
+            "MonthlyCharges": 78.44,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:38",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.39,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 1,
+            "MonthlyCharges": 113.7,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:43",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.25,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 46,
+            "MonthlyCharges": 109.05,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:49",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 55,
+            "MonthlyCharges": 94.13,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:20:55",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.36,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 67,
+            "MonthlyCharges": 74.1,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:04",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.43,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 12,
+            "MonthlyCharges": 117.34,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:09",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.23,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 61,
+            "MonthlyCharges": 79.58,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:11",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.4,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 31,
+            "MonthlyCharges": 93.16,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:15",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.38,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 22,
+            "MonthlyCharges": 112.61,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:23",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.32,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 31,
+            "MonthlyCharges": 31.46,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:32",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.34,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 52,
+            "MonthlyCharges": 37.19,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:36",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.27,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 48,
+            "MonthlyCharges": 45.24,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:41",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.35,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 12,
+            "MonthlyCharges": 55.12,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:46",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.41,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 14,
+            "MonthlyCharges": 100.28,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:52",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.29,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 46,
+            "MonthlyCharges": 48.25,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:21:58",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.48,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 4,
+            "MonthlyCharges": 119.13,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:03",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.33,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 13,
+            "MonthlyCharges": 85.73,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.36,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 35,
+            "MonthlyCharges": 43.48,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:14",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.18,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 34,
+            "MonthlyCharges": 49.25,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:19",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.4,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 57,
+            "MonthlyCharges": 100.72,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:25",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.28,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 30,
+            "MonthlyCharges": 75.28,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:31",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.34,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 39,
+            "MonthlyCharges": 24.82,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:36",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.31,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 34,
+            "MonthlyCharges": 47.62,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:41",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.41,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 42,
+            "MonthlyCharges": 119.84,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:47",
+        "customerID": "Unknown",
+        "prediction": "Likely to Churn",
+        "probability": 0.57,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 5,
+            "MonthlyCharges": 76.96,
+            "Contract": "Month-to-month"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:52",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.21,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 11,
+            "MonthlyCharges": 34.05,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:22:57",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "tenure": 20,
+            "MonthlyCharges": 23.62,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:23:02",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Male",
+            "SeniorCitizen": 1,
+            "tenure": 52,
+            "MonthlyCharges": 107.91,
+            "Contract": "One year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:23:08",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.26,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 1,
+            "tenure": 7,
+            "MonthlyCharges": 49.4,
+            "Contract": "Two year"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 20:23:13",
+        "customerID": "Unknown",
+        "prediction": "Will Stay",
+        "probability": 0.3,
+        "customer_data": {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "tenure": 48,
+            "MonthlyCharges": 36.93,
+            "Contract": "Month-to-month"
+        }
+    }
+]
